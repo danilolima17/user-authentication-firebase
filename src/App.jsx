@@ -188,7 +188,7 @@ function App() {
 
   return(
     <div className="container-principal">
-      <h1>ReactJs + Firebase Ne </h1>
+      <h1>ReactJs + Firebase</h1>
 
       {
         user && (
